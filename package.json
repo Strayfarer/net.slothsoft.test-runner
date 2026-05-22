@@ -1,7 +1,7 @@
 {
   "name": "net.slothsoft.test-runner",
   "displayName": "Slothsoft's Test Runner",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "unity": "6000.0",
   "unityRelease": "44f1",
   "keywords": [],

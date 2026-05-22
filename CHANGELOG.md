@@ -8,6 +8,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 
+## [1.1.2] - 2026-05-22
+
+### Fixed
+- Fix scene loading failing in the Test Runner due to scene being unsaved.
+
+
 ## [1.1.1] - 2026-05-22
 
 ### Fixed
