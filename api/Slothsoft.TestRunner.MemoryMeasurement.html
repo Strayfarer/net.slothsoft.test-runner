@@ -315,13 +315,13 @@
   
   
   <a id="Slothsoft_TestRunner_MemoryMeasurement_Run_" data-uid="Slothsoft.TestRunner.MemoryMeasurement.Run*"></a>
-  <h4 id="Slothsoft_TestRunner_MemoryMeasurement_Run_System_Action_" data-uid="Slothsoft.TestRunner.MemoryMeasurement.Run(System.Action)">Run(Action)</h4>
+  <h4 id="Slothsoft_TestRunner_MemoryMeasurement_Run_System_Nullable_Action__" data-uid="Slothsoft.TestRunner.MemoryMeasurement.Run(System.Nullable{Action})">Run(Nullable&lt;Action&gt;)</h4>
   <div class="markdown level1 summary"><p>Executes the memory measurement with given parameters.</p>
 </div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public IEnumerator Run(Action action = null)</code></pre>
+    <pre><code class="lang-csharp hljs">public IEnumerator Run(Action? action = default(Action? ))</code></pre>
   </div>
   <h5 class="parameters">Parameters</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -334,7 +334,7 @@
     </thead>
     <tbody>
       <tr>
-        <td><span class="xref">System.Action</span></td>
+        <td><span class="xref">System.Nullable</span>&lt;<span class="xref">Action</span>&gt;</td>
         <td><span class="parametername">action</span></td>
         <td></td>
       </tr>
@@ -350,7 +350,7 @@
     </thead>
     <tbody>
       <tr>
-        <td><span class="xref">System.Collections.Generic.IEnumerator</span></td>
+        <td><span class="xref">IEnumerator</span></td>
         <td><p><see cref="!:IEnumerator"></see> to yield until finish.</p>
 </td>
       </tr>

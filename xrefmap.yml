@@ -75,13 +75,13 @@ references:
   isSpec: "True"
   fullName: Slothsoft.TestRunner.Editor.Validation.AssetUtils.AssetsInDirectory
   nameWithType: AssetUtils.AssetsInDirectory
-- uid: Slothsoft.TestRunner.Editor.Validation.AssetUtils.DependentAssets(System.Collections.Generic.IEnumerable{System.String},System.Boolean,System.Boolean)
+- uid: Slothsoft.TestRunner.Editor.Validation.AssetUtils.DependentAssets(IEnumerable{System.String},System.Boolean,System.Boolean)
   name: DependentAssets(IEnumerable<String>, Boolean, Boolean)
-  href: api/Slothsoft.TestRunner.Editor.Validation.AssetUtils.html#Slothsoft_TestRunner_Editor_Validation_AssetUtils_DependentAssets_System_Collections_Generic_IEnumerable_System_String__System_Boolean_System_Boolean_
-  commentId: M:Slothsoft.TestRunner.Editor.Validation.AssetUtils.DependentAssets(System.Collections.Generic.IEnumerable{System.String},System.Boolean,System.Boolean)
+  href: api/Slothsoft.TestRunner.Editor.Validation.AssetUtils.html#Slothsoft_TestRunner_Editor_Validation_AssetUtils_DependentAssets_IEnumerable_System_String__System_Boolean_System_Boolean_
+  commentId: M:Slothsoft.TestRunner.Editor.Validation.AssetUtils.DependentAssets(IEnumerable{System.String},System.Boolean,System.Boolean)
   name.vb: DependentAssets(IEnumerable(Of String), Boolean, Boolean)
-  fullName: Slothsoft.TestRunner.Editor.Validation.AssetUtils.DependentAssets(System.Collections.Generic.IEnumerable<System.String>, System.Boolean, System.Boolean)
-  fullName.vb: Slothsoft.TestRunner.Editor.Validation.AssetUtils.DependentAssets(System.Collections.Generic.IEnumerable(Of System.String), System.Boolean, System.Boolean)
+  fullName: Slothsoft.TestRunner.Editor.Validation.AssetUtils.DependentAssets(IEnumerable<System.String>, System.Boolean, System.Boolean)
+  fullName.vb: Slothsoft.TestRunner.Editor.Validation.AssetUtils.DependentAssets(IEnumerable(Of System.String), System.Boolean, System.Boolean)
   nameWithType: AssetUtils.DependentAssets(IEnumerable<String>, Boolean, Boolean)
   nameWithType.vb: AssetUtils.DependentAssets(IEnumerable(Of String), Boolean, Boolean)
 - uid: Slothsoft.TestRunner.Editor.Validation.AssetUtils.DependentAssets(System.String,System.Boolean)
@@ -97,13 +97,13 @@ references:
   isSpec: "True"
   fullName: Slothsoft.TestRunner.Editor.Validation.AssetUtils.DependentAssets
   nameWithType: AssetUtils.DependentAssets
-- uid: Slothsoft.TestRunner.Editor.Validation.AssetUtils.DependingAssets(System.Collections.Generic.IEnumerable{System.String})
+- uid: Slothsoft.TestRunner.Editor.Validation.AssetUtils.DependingAssets(IEnumerable{System.String})
   name: DependingAssets(IEnumerable<String>)
-  href: api/Slothsoft.TestRunner.Editor.Validation.AssetUtils.html#Slothsoft_TestRunner_Editor_Validation_AssetUtils_DependingAssets_System_Collections_Generic_IEnumerable_System_String__
-  commentId: M:Slothsoft.TestRunner.Editor.Validation.AssetUtils.DependingAssets(System.Collections.Generic.IEnumerable{System.String})
+  href: api/Slothsoft.TestRunner.Editor.Validation.AssetUtils.html#Slothsoft_TestRunner_Editor_Validation_AssetUtils_DependingAssets_IEnumerable_System_String__
+  commentId: M:Slothsoft.TestRunner.Editor.Validation.AssetUtils.DependingAssets(IEnumerable{System.String})
   name.vb: DependingAssets(IEnumerable(Of String))
-  fullName: Slothsoft.TestRunner.Editor.Validation.AssetUtils.DependingAssets(System.Collections.Generic.IEnumerable<System.String>)
-  fullName.vb: Slothsoft.TestRunner.Editor.Validation.AssetUtils.DependingAssets(System.Collections.Generic.IEnumerable(Of System.String))
+  fullName: Slothsoft.TestRunner.Editor.Validation.AssetUtils.DependingAssets(IEnumerable<System.String>)
+  fullName.vb: Slothsoft.TestRunner.Editor.Validation.AssetUtils.DependingAssets(IEnumerable(Of System.String))
   nameWithType: AssetUtils.DependingAssets(IEnumerable<String>)
   nameWithType.vb: AssetUtils.DependingAssets(IEnumerable(Of String))
 - uid: Slothsoft.TestRunner.Editor.Validation.AssetUtils.DependingAssets(System.String)
@@ -119,13 +119,13 @@ references:
   isSpec: "True"
   fullName: Slothsoft.TestRunner.Editor.Validation.AssetUtils.DependingAssets
   nameWithType: AssetUtils.DependingAssets
-- uid: Slothsoft.TestRunner.Editor.Validation.AssetUtils.ExcludeDeprecatedAssets(System.Collections.Generic.IEnumerable{System.String})
+- uid: Slothsoft.TestRunner.Editor.Validation.AssetUtils.ExcludeDeprecatedAssets(IEnumerable{System.String})
   name: ExcludeDeprecatedAssets(IEnumerable<String>)
-  href: api/Slothsoft.TestRunner.Editor.Validation.AssetUtils.html#Slothsoft_TestRunner_Editor_Validation_AssetUtils_ExcludeDeprecatedAssets_System_Collections_Generic_IEnumerable_System_String__
-  commentId: M:Slothsoft.TestRunner.Editor.Validation.AssetUtils.ExcludeDeprecatedAssets(System.Collections.Generic.IEnumerable{System.String})
+  href: api/Slothsoft.TestRunner.Editor.Validation.AssetUtils.html#Slothsoft_TestRunner_Editor_Validation_AssetUtils_ExcludeDeprecatedAssets_IEnumerable_System_String__
+  commentId: M:Slothsoft.TestRunner.Editor.Validation.AssetUtils.ExcludeDeprecatedAssets(IEnumerable{System.String})
   name.vb: ExcludeDeprecatedAssets(IEnumerable(Of String))
-  fullName: Slothsoft.TestRunner.Editor.Validation.AssetUtils.ExcludeDeprecatedAssets(System.Collections.Generic.IEnumerable<System.String>)
-  fullName.vb: Slothsoft.TestRunner.Editor.Validation.AssetUtils.ExcludeDeprecatedAssets(System.Collections.Generic.IEnumerable(Of System.String))
+  fullName: Slothsoft.TestRunner.Editor.Validation.AssetUtils.ExcludeDeprecatedAssets(IEnumerable<System.String>)
+  fullName.vb: Slothsoft.TestRunner.Editor.Validation.AssetUtils.ExcludeDeprecatedAssets(IEnumerable(Of System.String))
   nameWithType: AssetUtils.ExcludeDeprecatedAssets(IEnumerable<String>)
   nameWithType.vb: AssetUtils.ExcludeDeprecatedAssets(IEnumerable(Of String))
 - uid: Slothsoft.TestRunner.Editor.Validation.AssetUtils.ExcludeDeprecatedAssets*
@@ -135,13 +135,13 @@ references:
   isSpec: "True"
   fullName: Slothsoft.TestRunner.Editor.Validation.AssetUtils.ExcludeDeprecatedAssets
   nameWithType: AssetUtils.ExcludeDeprecatedAssets
-- uid: Slothsoft.TestRunner.Editor.Validation.AssetUtils.ExcludeTestAssets(System.Collections.Generic.IEnumerable{System.String})
+- uid: Slothsoft.TestRunner.Editor.Validation.AssetUtils.ExcludeTestAssets(IEnumerable{System.String})
   name: ExcludeTestAssets(IEnumerable<String>)
-  href: api/Slothsoft.TestRunner.Editor.Validation.AssetUtils.html#Slothsoft_TestRunner_Editor_Validation_AssetUtils_ExcludeTestAssets_System_Collections_Generic_IEnumerable_System_String__
-  commentId: M:Slothsoft.TestRunner.Editor.Validation.AssetUtils.ExcludeTestAssets(System.Collections.Generic.IEnumerable{System.String})
+  href: api/Slothsoft.TestRunner.Editor.Validation.AssetUtils.html#Slothsoft_TestRunner_Editor_Validation_AssetUtils_ExcludeTestAssets_IEnumerable_System_String__
+  commentId: M:Slothsoft.TestRunner.Editor.Validation.AssetUtils.ExcludeTestAssets(IEnumerable{System.String})
   name.vb: ExcludeTestAssets(IEnumerable(Of String))
-  fullName: Slothsoft.TestRunner.Editor.Validation.AssetUtils.ExcludeTestAssets(System.Collections.Generic.IEnumerable<System.String>)
-  fullName.vb: Slothsoft.TestRunner.Editor.Validation.AssetUtils.ExcludeTestAssets(System.Collections.Generic.IEnumerable(Of System.String))
+  fullName: Slothsoft.TestRunner.Editor.Validation.AssetUtils.ExcludeTestAssets(IEnumerable<System.String>)
+  fullName.vb: Slothsoft.TestRunner.Editor.Validation.AssetUtils.ExcludeTestAssets(IEnumerable(Of System.String))
   nameWithType: AssetUtils.ExcludeTestAssets(IEnumerable<String>)
   nameWithType.vb: AssetUtils.ExcludeTestAssets(IEnumerable(Of String))
 - uid: Slothsoft.TestRunner.Editor.Validation.AssetUtils.ExcludeTestAssets*
@@ -151,13 +151,13 @@ references:
   isSpec: "True"
   fullName: Slothsoft.TestRunner.Editor.Validation.AssetUtils.ExcludeTestAssets
   nameWithType: AssetUtils.ExcludeTestAssets
-- uid: Slothsoft.TestRunner.Editor.Validation.AssetUtils.ExcludeWIPAssets(System.Collections.Generic.IEnumerable{System.String})
+- uid: Slothsoft.TestRunner.Editor.Validation.AssetUtils.ExcludeWIPAssets(IEnumerable{System.String})
   name: ExcludeWIPAssets(IEnumerable<String>)
-  href: api/Slothsoft.TestRunner.Editor.Validation.AssetUtils.html#Slothsoft_TestRunner_Editor_Validation_AssetUtils_ExcludeWIPAssets_System_Collections_Generic_IEnumerable_System_String__
-  commentId: M:Slothsoft.TestRunner.Editor.Validation.AssetUtils.ExcludeWIPAssets(System.Collections.Generic.IEnumerable{System.String})
+  href: api/Slothsoft.TestRunner.Editor.Validation.AssetUtils.html#Slothsoft_TestRunner_Editor_Validation_AssetUtils_ExcludeWIPAssets_IEnumerable_System_String__
+  commentId: M:Slothsoft.TestRunner.Editor.Validation.AssetUtils.ExcludeWIPAssets(IEnumerable{System.String})
   name.vb: ExcludeWIPAssets(IEnumerable(Of String))
-  fullName: Slothsoft.TestRunner.Editor.Validation.AssetUtils.ExcludeWIPAssets(System.Collections.Generic.IEnumerable<System.String>)
-  fullName.vb: Slothsoft.TestRunner.Editor.Validation.AssetUtils.ExcludeWIPAssets(System.Collections.Generic.IEnumerable(Of System.String))
+  fullName: Slothsoft.TestRunner.Editor.Validation.AssetUtils.ExcludeWIPAssets(IEnumerable<System.String>)
+  fullName.vb: Slothsoft.TestRunner.Editor.Validation.AssetUtils.ExcludeWIPAssets(IEnumerable(Of System.String))
   nameWithType: AssetUtils.ExcludeWIPAssets(IEnumerable<String>)
   nameWithType.vb: AssetUtils.ExcludeWIPAssets(IEnumerable(Of String))
 - uid: Slothsoft.TestRunner.Editor.Validation.AssetUtils.ExcludeWIPAssets*
@@ -254,13 +254,13 @@ references:
   isSpec: "True"
   fullName: Slothsoft.TestRunner.Editor.Validation.AssetUtils.IsWIPAsset
   nameWithType: AssetUtils.IsWIPAsset
-- uid: Slothsoft.TestRunner.Editor.Validation.AssetUtils.OnlyWIPAssets(System.Collections.Generic.IEnumerable{System.String})
+- uid: Slothsoft.TestRunner.Editor.Validation.AssetUtils.OnlyWIPAssets(IEnumerable{System.String})
   name: OnlyWIPAssets(IEnumerable<String>)
-  href: api/Slothsoft.TestRunner.Editor.Validation.AssetUtils.html#Slothsoft_TestRunner_Editor_Validation_AssetUtils_OnlyWIPAssets_System_Collections_Generic_IEnumerable_System_String__
-  commentId: M:Slothsoft.TestRunner.Editor.Validation.AssetUtils.OnlyWIPAssets(System.Collections.Generic.IEnumerable{System.String})
+  href: api/Slothsoft.TestRunner.Editor.Validation.AssetUtils.html#Slothsoft_TestRunner_Editor_Validation_AssetUtils_OnlyWIPAssets_IEnumerable_System_String__
+  commentId: M:Slothsoft.TestRunner.Editor.Validation.AssetUtils.OnlyWIPAssets(IEnumerable{System.String})
   name.vb: OnlyWIPAssets(IEnumerable(Of String))
-  fullName: Slothsoft.TestRunner.Editor.Validation.AssetUtils.OnlyWIPAssets(System.Collections.Generic.IEnumerable<System.String>)
-  fullName.vb: Slothsoft.TestRunner.Editor.Validation.AssetUtils.OnlyWIPAssets(System.Collections.Generic.IEnumerable(Of System.String))
+  fullName: Slothsoft.TestRunner.Editor.Validation.AssetUtils.OnlyWIPAssets(IEnumerable<System.String>)
+  fullName.vb: Slothsoft.TestRunner.Editor.Validation.AssetUtils.OnlyWIPAssets(IEnumerable(Of System.String))
   nameWithType: AssetUtils.OnlyWIPAssets(IEnumerable<String>)
   nameWithType.vb: AssetUtils.OnlyWIPAssets(IEnumerable(Of String))
 - uid: Slothsoft.TestRunner.Editor.Validation.AssetUtils.OnlyWIPAssets*
@@ -577,12 +577,12 @@ references:
   isSpec: "True"
   fullName: Slothsoft.TestRunner.Editor.Validation.IAssetValidator.currentScene
   nameWithType: IAssetValidator.currentScene
-- uid: Slothsoft.TestRunner.Editor.Validation.IAssetValidator.GetName(UnityEngine.Object)
-  name: GetName(UnityEngine.Object)
-  href: api/Slothsoft.TestRunner.Editor.Validation.IAssetValidator.html#Slothsoft_TestRunner_Editor_Validation_IAssetValidator_GetName_UnityEngine_Object_
-  commentId: M:Slothsoft.TestRunner.Editor.Validation.IAssetValidator.GetName(UnityEngine.Object)
-  fullName: Slothsoft.TestRunner.Editor.Validation.IAssetValidator.GetName(UnityEngine.Object)
-  nameWithType: IAssetValidator.GetName(UnityEngine.Object)
+- uid: Slothsoft.TestRunner.Editor.Validation.IAssetValidator.GetName(UnityObject)
+  name: GetName(UnityObject)
+  href: api/Slothsoft.TestRunner.Editor.Validation.IAssetValidator.html#Slothsoft_TestRunner_Editor_Validation_IAssetValidator_GetName_UnityObject_
+  commentId: M:Slothsoft.TestRunner.Editor.Validation.IAssetValidator.GetName(UnityObject)
+  fullName: Slothsoft.TestRunner.Editor.Validation.IAssetValidator.GetName(UnityObject)
+  nameWithType: IAssetValidator.GetName(UnityObject)
 - uid: Slothsoft.TestRunner.Editor.Validation.IAssetValidator.GetName*
   name: GetName
   href: api/Slothsoft.TestRunner.Editor.Validation.IAssetValidator.html#Slothsoft_TestRunner_Editor_Validation_IAssetValidator_GetName_
@@ -609,12 +609,12 @@ references:
   commentId: M:Slothsoft.TestRunner.Editor.Validation.IAssetValidator.ValidateAsset(System.String)
   fullName: Slothsoft.TestRunner.Editor.Validation.IAssetValidator.ValidateAsset(System.String)
   nameWithType: IAssetValidator.ValidateAsset(String)
-- uid: Slothsoft.TestRunner.Editor.Validation.IAssetValidator.ValidateAsset(UnityEngine.Object)
-  name: ValidateAsset(UnityEngine.Object)
-  href: api/Slothsoft.TestRunner.Editor.Validation.IAssetValidator.html#Slothsoft_TestRunner_Editor_Validation_IAssetValidator_ValidateAsset_UnityEngine_Object_
-  commentId: M:Slothsoft.TestRunner.Editor.Validation.IAssetValidator.ValidateAsset(UnityEngine.Object)
-  fullName: Slothsoft.TestRunner.Editor.Validation.IAssetValidator.ValidateAsset(UnityEngine.Object)
-  nameWithType: IAssetValidator.ValidateAsset(UnityEngine.Object)
+- uid: Slothsoft.TestRunner.Editor.Validation.IAssetValidator.ValidateAsset(UnityObject)
+  name: ValidateAsset(UnityObject)
+  href: api/Slothsoft.TestRunner.Editor.Validation.IAssetValidator.html#Slothsoft_TestRunner_Editor_Validation_IAssetValidator_ValidateAsset_UnityObject_
+  commentId: M:Slothsoft.TestRunner.Editor.Validation.IAssetValidator.ValidateAsset(UnityObject)
+  fullName: Slothsoft.TestRunner.Editor.Validation.IAssetValidator.ValidateAsset(UnityObject)
+  nameWithType: IAssetValidator.ValidateAsset(UnityObject)
 - uid: Slothsoft.TestRunner.Editor.Validation.IAssetValidator.ValidateAsset*
   name: ValidateAsset
   href: api/Slothsoft.TestRunner.Editor.Validation.IAssetValidator.html#Slothsoft_TestRunner_Editor_Validation_IAssetValidator_ValidateAsset_
@@ -797,12 +797,15 @@ references:
   isSpec: "True"
   fullName: Slothsoft.TestRunner.MemoryMeasurement.RecordFrameTime
   nameWithType: MemoryMeasurement.RecordFrameTime
-- uid: Slothsoft.TestRunner.MemoryMeasurement.Run(System.Action)
-  name: Run(Action)
-  href: api/Slothsoft.TestRunner.MemoryMeasurement.html#Slothsoft_TestRunner_MemoryMeasurement_Run_System_Action_
-  commentId: M:Slothsoft.TestRunner.MemoryMeasurement.Run(System.Action)
-  fullName: Slothsoft.TestRunner.MemoryMeasurement.Run(System.Action)
-  nameWithType: MemoryMeasurement.Run(Action)
+- uid: Slothsoft.TestRunner.MemoryMeasurement.Run(System.Nullable{Action})
+  name: Run(Nullable<Action>)
+  href: api/Slothsoft.TestRunner.MemoryMeasurement.html#Slothsoft_TestRunner_MemoryMeasurement_Run_System_Nullable_Action__
+  commentId: M:Slothsoft.TestRunner.MemoryMeasurement.Run(System.Nullable{Action})
+  name.vb: Run(Nullable(Of Action))
+  fullName: Slothsoft.TestRunner.MemoryMeasurement.Run(System.Nullable<Action>)
+  fullName.vb: Slothsoft.TestRunner.MemoryMeasurement.Run(System.Nullable(Of Action))
+  nameWithType: MemoryMeasurement.Run(Nullable<Action>)
+  nameWithType.vb: MemoryMeasurement.Run(Nullable(Of Action))
 - uid: Slothsoft.TestRunner.MemoryMeasurement.Run*
   name: Run
   href: api/Slothsoft.TestRunner.MemoryMeasurement.html#Slothsoft_TestRunner_MemoryMeasurement_Run_
@@ -829,13 +832,13 @@ references:
   commentId: T:Slothsoft.TestRunner.TestGameObject
   fullName: Slothsoft.TestRunner.TestGameObject
   nameWithType: TestGameObject
-- uid: Slothsoft.TestRunner.TestGameObject.#ctor(System.Action{GameObject})
+- uid: Slothsoft.TestRunner.TestGameObject.#ctor(Action{GameObject})
   name: TestGameObject(Action<GameObject>)
-  href: api/Slothsoft.TestRunner.TestGameObject.html#Slothsoft_TestRunner_TestGameObject__ctor_System_Action_GameObject__
-  commentId: M:Slothsoft.TestRunner.TestGameObject.#ctor(System.Action{GameObject})
+  href: api/Slothsoft.TestRunner.TestGameObject.html#Slothsoft_TestRunner_TestGameObject__ctor_Action_GameObject__
+  commentId: M:Slothsoft.TestRunner.TestGameObject.#ctor(Action{GameObject})
   name.vb: TestGameObject(Action(Of GameObject))
-  fullName: Slothsoft.TestRunner.TestGameObject.TestGameObject(System.Action<GameObject>)
-  fullName.vb: Slothsoft.TestRunner.TestGameObject.TestGameObject(System.Action(Of GameObject))
+  fullName: Slothsoft.TestRunner.TestGameObject.TestGameObject(Action<GameObject>)
+  fullName.vb: Slothsoft.TestRunner.TestGameObject.TestGameObject(Action(Of GameObject))
   nameWithType: TestGameObject.TestGameObject(Action<GameObject>)
   nameWithType.vb: TestGameObject.TestGameObject(Action(Of GameObject))
 - uid: Slothsoft.TestRunner.TestGameObject.#ctor(System.String)
@@ -904,13 +907,13 @@ references:
   fullName.vb: Slothsoft.TestRunner.TestGameObject(Of TSuT)
   nameWithType: TestGameObject<TSuT>
   nameWithType.vb: TestGameObject(Of TSuT)
-- uid: Slothsoft.TestRunner.TestGameObject`1.#ctor(System.Action{GameObject})
+- uid: Slothsoft.TestRunner.TestGameObject`1.#ctor(Action{GameObject})
   name: TestGameObject(Action<GameObject>)
-  href: api/Slothsoft.TestRunner.TestGameObject-1.html#Slothsoft_TestRunner_TestGameObject_1__ctor_System_Action_GameObject__
-  commentId: M:Slothsoft.TestRunner.TestGameObject`1.#ctor(System.Action{GameObject})
+  href: api/Slothsoft.TestRunner.TestGameObject-1.html#Slothsoft_TestRunner_TestGameObject_1__ctor_Action_GameObject__
+  commentId: M:Slothsoft.TestRunner.TestGameObject`1.#ctor(Action{GameObject})
   name.vb: TestGameObject(Action(Of GameObject))
-  fullName: Slothsoft.TestRunner.TestGameObject<TSuT>.TestGameObject(System.Action<GameObject>)
-  fullName.vb: Slothsoft.TestRunner.TestGameObject(Of TSuT).TestGameObject(System.Action(Of GameObject))
+  fullName: Slothsoft.TestRunner.TestGameObject<TSuT>.TestGameObject(Action<GameObject>)
+  fullName.vb: Slothsoft.TestRunner.TestGameObject(Of TSuT).TestGameObject(Action(Of GameObject))
   nameWithType: TestGameObject<TSuT>.TestGameObject(Action<GameObject>)
   nameWithType.vb: TestGameObject(Of TSuT).TestGameObject(Action(Of GameObject))
 - uid: Slothsoft.TestRunner.TestGameObject`1.#ctor*
@@ -1090,12 +1093,12 @@ references:
   isSpec: "True"
   fullName: Slothsoft.TestRunner.TestObjectStore.Finalize
   nameWithType: TestObjectStore.Finalize
-- uid: Slothsoft.TestRunner.TestObjectStore.Register(UnityEngine.Object)
-  name: Register(UnityEngine.Object)
-  href: api/Slothsoft.TestRunner.TestObjectStore.html#Slothsoft_TestRunner_TestObjectStore_Register_UnityEngine_Object_
-  commentId: M:Slothsoft.TestRunner.TestObjectStore.Register(UnityEngine.Object)
-  fullName: Slothsoft.TestRunner.TestObjectStore.Register(UnityEngine.Object)
-  nameWithType: TestObjectStore.Register(UnityEngine.Object)
+- uid: Slothsoft.TestRunner.TestObjectStore.Register(UnityObject)
+  name: Register(UnityObject)
+  href: api/Slothsoft.TestRunner.TestObjectStore.html#Slothsoft_TestRunner_TestObjectStore_Register_UnityObject_
+  commentId: M:Slothsoft.TestRunner.TestObjectStore.Register(UnityObject)
+  fullName: Slothsoft.TestRunner.TestObjectStore.Register(UnityObject)
+  nameWithType: TestObjectStore.Register(UnityObject)
 - uid: Slothsoft.TestRunner.TestObjectStore.Register*
   name: Register
   href: api/Slothsoft.TestRunner.TestObjectStore.html#Slothsoft_TestRunner_TestObjectStore_Register_
@@ -1224,13 +1227,13 @@ references:
   commentId: T:Slothsoft.TestRunner.WaitUtils
   fullName: Slothsoft.TestRunner.WaitUtils
   nameWithType: WaitUtils
-- uid: Slothsoft.TestRunner.WaitUtils.WaitFor(System.Func{System.Boolean},System.String,System.Single)
+- uid: Slothsoft.TestRunner.WaitUtils.WaitFor(Func{System.Boolean},System.String,System.Single)
   name: WaitFor(Func<Boolean>, String, Single)
-  href: api/Slothsoft.TestRunner.WaitUtils.html#Slothsoft_TestRunner_WaitUtils_WaitFor_System_Func_System_Boolean__System_String_System_Single_
-  commentId: M:Slothsoft.TestRunner.WaitUtils.WaitFor(System.Func{System.Boolean},System.String,System.Single)
+  href: api/Slothsoft.TestRunner.WaitUtils.html#Slothsoft_TestRunner_WaitUtils_WaitFor_Func_System_Boolean__System_String_System_Single_
+  commentId: M:Slothsoft.TestRunner.WaitUtils.WaitFor(Func{System.Boolean},System.String,System.Single)
   name.vb: WaitFor(Func(Of Boolean), String, Single)
-  fullName: Slothsoft.TestRunner.WaitUtils.WaitFor(System.Func<System.Boolean>, System.String, System.Single)
-  fullName.vb: Slothsoft.TestRunner.WaitUtils.WaitFor(System.Func(Of System.Boolean), System.String, System.Single)
+  fullName: Slothsoft.TestRunner.WaitUtils.WaitFor(Func<System.Boolean>, System.String, System.Single)
+  fullName.vb: Slothsoft.TestRunner.WaitUtils.WaitFor(Func(Of System.Boolean), System.String, System.Single)
   nameWithType: WaitUtils.WaitFor(Func<Boolean>, String, Single)
   nameWithType.vb: WaitUtils.WaitFor(Func(Of Boolean), String, Single)
 - uid: Slothsoft.TestRunner.WaitUtils.WaitFor*
