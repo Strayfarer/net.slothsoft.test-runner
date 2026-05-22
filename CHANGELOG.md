@@ -8,18 +8,24 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 
+## [1.1.1] - 2026-05-22
+
+### Fixed
+- Fix false positive asset validation for Addressable assets.
+
+
 ## [1.1.0] - 2025-12-21
 
 ### Added
-- Added UnityTestCaseAttribute.
-- Added MemoryMeasurement.
-- Added TestUIScene.
+- Add UnityTestCaseAttribute.
+- Add MemoryMeasurement.
+- Add TestUIScene.
 
 
 ## [1.0.1] - 2025-12-19
 
 ### Fixed
-- Removed obsolete types for Unity 6000.2+
+- Remove obsolete types for Unity 6000.2+
 
 
 ## [1.0.0] - 2025-09-23
@@ -30,33 +36,33 @@ Initial release.
 ## [1.0.0-pre.4] - 2025-08-15
 
 ### Removed
-- Removed ScriptValidation.
+- Remove ScriptValidation.
 
 
 ## [1.0.0-pre.3] - 2025-08-13
 
 ### Added
-- Added Asset Dependency Explorer.
-- Added \[Validate\] attribute.
+- Add Asset Dependency Explorer.
+- Add \[Validate\] attribute.
 
 
 ## [1.0.0-pre.2] - 2025-07-13
 
 ### Added
-- Added Slothsoft's UnityExtensions to dependencies.
+- Add Slothsoft's UnityExtensions to dependencies.
 
 
 ## [1.0.0-pre.1] - 2025-06-11
 
 ### Added
-- Added .npmignore to exclude devops files.
+- Add .npmignore to exclude devops files.
 
 
 ## [1.0.0-pre.0] - 2025-06-07
 
 ### Added
-- Added GameObject.AddSubstitute<T>().
-- Added TestGameObject.
-- Added TestObjectStore.
-- Added TimeScaler.
-- Added WaitUtils.
+- Add GameObject.AddSubstitute<T>().
+- Add TestGameObject.
+- Add TestObjectStore.
+- Add TimeScaler.
+- Add WaitUtils.
