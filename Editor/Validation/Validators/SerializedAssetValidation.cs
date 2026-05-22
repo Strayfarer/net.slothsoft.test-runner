@@ -1,5 +1,6 @@
 using System;
 using UnityEditor;
+using UnityEngine;
 using UnityObject = UnityEngine.Object;
 
 namespace Slothsoft.TestRunner.Editor.Validation.Validators {
@@ -24,6 +25,9 @@ namespace Slothsoft.TestRunner.Editor.Validation.Validators {
 
         internal static void ValidateSerializedProperty(SerializedProperty property, IAssetValidator validator) {
             switch (property) {
+#if UNITY_6000_2_OR_NEWER
+                case { propertyType: SerializedPropertyType.EntityId } when property.entityIdValue != EntityId.None:
+#endif
                 case { propertyType: SerializedPropertyType.ObjectReference, objectReferenceInstanceIDValue: not 0 }:
                     var target = property.serializedObject.targetObject;
 
@@ -31,7 +35,9 @@ namespace Slothsoft.TestRunner.Editor.Validation.Validators {
                         validator.AssertFail($"{validator.GetName(target)} references a missing {GetType(property)} in property '{property.propertyPath}'!");
                     } else {
 #if UNITY_6000_2_OR_NEWER
-                        string path = AssetDatabase.GetAssetPath(property.entityIdValue);
+                        string path = property.propertyType is SerializedPropertyType.EntityId
+                            ? AssetDatabase.GetAssetPath(property.entityIdValue)
+                            : AssetDatabase.GetAssetPath(property.objectReferenceValue);
 #else
                         string path = AssetDatabase.GetAssetPath(property.objectReferenceInstanceIDValue);
 #endif

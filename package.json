@@ -1,7 +1,7 @@
 {
   "name": "net.slothsoft.test-runner",
   "displayName": "Slothsoft's Test Runner",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "unity": "6000.0",
   "unityRelease": "44f1",
   "keywords": [],
@@ -22,8 +22,8 @@
   },
   "author": {
     "name": "Daniel Schulz",
-    "email": "info.slothsoft@gmail.com",
-    "url": "http://slothsoft.net/"
+    "url": "http://slothsoft.net/",
+    "email": "info.slothsoft@gmail.com"
   },
   "type": "library",
   "hideInEditor": false
