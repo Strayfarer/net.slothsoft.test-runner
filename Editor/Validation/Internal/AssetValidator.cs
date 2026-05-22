@@ -237,7 +237,7 @@ namespace Slothsoft.TestRunner.Editor.Validation.Internal {
 
         /// <inheritdoc/>
         public void OpenScene(string scenePath) {
-            currentScenes.Push(EditorSceneManager.OpenScene(scenePath, OpenSceneMode.Additive));
+            currentScenes.Push(EditorSceneManager.OpenScene(scenePath, Application.isPlaying ? OpenSceneMode.Additive : OpenSceneMode.Single));
         }
 
         /// <inheritdoc/>
