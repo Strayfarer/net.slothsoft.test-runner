@@ -42,12 +42,15 @@ namespace Slothsoft.TestRunner.Editor.Validation.Validators {
         const bool PREPROCESS_ONLY = false;
         const bool STRIP_LINE_DIRECTIVES = false;
 
-        const bool RECOMPILE_SHADERS = false;
+        public static bool recompileShaders = false;
+        public static bool openCompiledShaders = false;
 
         [Validate]
         public static void CompileShader(Shader shader, IAssetValidator validator) {
-            if (RECOMPILE_SHADERS || Application.isBatchMode) {
-                OpenCompiledShader(shader, 1, ActiveCompilePlatformsMask, INCLUDE_ALL_VARIANTS, PREPROCESS_ONLY, STRIP_LINE_DIRECTIVES);
+            if (recompileShaders || Application.isBatchMode) {
+                if (openCompiledShaders) {
+                    OpenCompiledShader(shader, 1, ActiveCompilePlatformsMask, INCLUDE_ALL_VARIANTS, PREPROCESS_ONLY, STRIP_LINE_DIRECTIVES);
+                }
             } else {
                 ReportToValidator(ShaderUtil.GetShaderMessages(shader), validator);
             }
